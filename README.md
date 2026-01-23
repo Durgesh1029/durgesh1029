@@ -50,46 +50,46 @@ I am a passionate engineer combining deep knowledge of **Power Systems** with cu
 <h2 align="center">💡 Key Personal Projects</h2>
 
 <details>
-<summary><b>1. Pipelined 32-bit MIPS Processor using Verilog HDL</b></summary>
+<summary><b>1. Semantic Segmentation in Heterogeneous Federated Learning (M.Tech Thesis)</b></summary>
 <br>
 
-* **Description:** Designed a fundamental computer architecture component to understand CPU operation.
-* **Implementation:** Implemented a five-stage pipelined MIPS32 processor (IF, ID, EX, MEM, WB) including data hazards and latches.
-* **Verification:** Successfully validated its functionality using testbenches and timing diagrams.
-* **Tags:** `#VerilogHDL` `#MIPSArchitecture` `#Pipelining` `#DigitalDesign`
+* **Description:** Researching decentralized image segmentation to overcome domain shifts in heterogeneous commercial datasets.
+* **Implementation:** Developing simulation models using **Python** and **PyTorch**, adapting Fed-Star and Fed-Cyclic algorithms for pixel-level tasks.
+* **Impact:** Focuses on maintaining high-fidelity **binary masks** while training across non-IID data sources.
+* **Tags:** `#FederatedLearning` `#SemanticSegmentation` `#PyTorch` `#ComputerVision`
 
 </details>
 
 <details>
-<summary><b>2. CMOS Inverter Design and Analysis using GPDK 180nm</b></summary>
+<summary><b>2. ISTVT: Interpretable Spatial-Temporal Video Transformer for Deepfake Detection</b></summary>
 <br>
 
-* **Description:** A core VLSI project focusing on fundamental transistor-level circuit design.
-* **Implementation:** Designed and simulated a **CMOS inverter** in **Cadence Virtuoso** using GPDK 180nm technology.
-* **Analysis:** Optimized rise/fall times, and performed detailed DC/AC analysis to characterize its performance.
-* **Tags:** `#VLSI` `#CadenceVirtuoso` `#AnalogDesign` `#GPDK180nm`
+* **Description:** A Deep Learning project aimed at identifying manipulated media content through advanced transformer architectures.
+* **Implementation:** Developed an **ISTVT** model that analyzes spatial-temporal artifacts in video sequences to detect synthetic frames.
+* **Focus:** Emphasized model **interpretability** to visualize specific features utilized during the deepfake detection process.
+* **Tags:** `#DeepLearning` `#Transformers` `#DeepfakeDetection` `#ArtificialIntelligence`
 
 </details>
 
 <details>
-<summary><b>3. Implementation of Synchronous FIFO using Verilog HDL</b></summary>
+<summary><b>3. Twitter-Based Sentiment Analysis of the Russia-Ukraine Conflict</b></summary>
 <br>
 
-* **Description:** Designed a common digital circuit used for efficient data buffering between systems.
-* **Implementation:** Developed a **Synchronous FIFO** with clock-synchronized read/write pointers.
-* **Functionality:** Essential for ensuring smooth data flow and preventing underflow/overflow conditions in digital systems.
-* **Tags:** `#VerilogHDL` `#FIFO` `#DigitalDesign`
+* **Description:** An NLP and Data Mining project analyzing geopolitical sentiment trends from real-time social media data.
+* **Implementation:** Built a complete **NLP pipeline** in Python to scrape, clean, and process Twitter datasets.
+* **Analysis:** Applied sentiment extraction and categorization techniques to visualize public opinion shifts during the conflict.
+* **Tags:** `#NaturalLanguageProcessing` `#Python` `#DataMining` `#SentimentAnalysis`
 
 </details>
 
 <details>
-<summary><b>4. Design and Verification of 8-bit BCD Multiplier</b></summary>
+<summary><b>4. Power Generation from Thermoelectric Generator (TEG) - B.E. Project</b></summary>
 <br>
 
-* **Description:** Developed an arithmetic circuit that includes BCD conversion for display purposes.
-* **Implementation:** Implemented an 8-bit Shift-and-Add multiplier incorporating the **Double Dabble** algorithm.
-* **Output:** Accurately displays results in both binary and BCD (Binary-Coded Decimal) formats.
-* **Tags:** `#VerilogHDL` `#BCD` `#ArithmeticCircuit`
+* **Description:** A hardware energy harvesting project converting waste heat into usable electrical energy.
+* **Implementation:** Developed a system using the **Seebeck Effect** integrated with a DC-DC step-up chopper and a voltage regulator.
+* **Output:** Successfully stabilized power output to drive **mW electronic devices** and a 5W LED load via battery storage.
+* **Tags:** `#EnergyHarvesting` `#ElectricalEngineering` `#HardwareDesign` `#RenewableEnergy`
 
 </details>
 

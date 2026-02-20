@@ -3,10 +3,10 @@
     
    <h1 align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-    &nbsp; Hi, I'm Durgesh Dongre! ⚡
+    &nbsp; Hi, I'm Durgesh B. Dongre! ⚡
 </h1>
 <h3 align="center">
-    An Electrical Engineer | AI/ML & VLSI Enthusiast from India 🇮🇳
+    M.Tech Student in Electrical Engineering at IIT Kanpur 🎓
 </h3>
 </p>
 
@@ -14,94 +14,78 @@
 
 ## 💡 About Me
 
-I am a passionate engineer combining deep knowledge of **Power Systems** with cutting-edge concepts in **Artificial Intelligence** and **Deep Learning** to solve complex, real-world engineering challenges. I also have a strong foundation in **Hardware Design** and **VLSI**.
+I am a hardware and AI enthusiast currently pursuing my M.Tech at **IIT Kanpur**. My work focuses on the intersection of **Digital IC Design**, **RTL Verification**, and **Federated Learning**.
 
-- 🔭 I’m currently focused on **Verilog HDL** Verification and exploring novel applications of **ML in Power Grids**.
-- 🌱 I’m constantly learning **UVM Verification Methodologies** and **Advanced Python Libraries**.
-- 📧 How to reach me: **durgeshdon121@gmail.com**
-
----
-
-<h2 align="center">📊 GitHub Stats & Contributions</h2>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=durgesh1029&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Durgesh's GitHub Stats" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgesh1029&theme=vue&hide_border=true" alt="Durgesh's Streak" width="48%"/>
-</p>
+- 🔭 **Current Focus:** Federated Learning for Commercial Image Sources and Advanced RTL Verification.
+- 🌱 **Actively Learning:** Static Timing Analysis (STA), UVM, and SystemVerilog.
+- 🎓 **Education:** M.Tech in Electrical Engineering (IIT Kanpur) | B.E. in Electrical Engineering (RTMNU).
+- 📧 **Contact:** [durgesh24@iitk.ac.in](mailto:durgesh24@iitk.ac.in) | [durgeshdon121@gmail.com](mailto:durgeshdon121@gmail.com)
 
 ---
 
-<h2 align="center">🛠️ Languages & Tools</h2>
+<h2 align="center">🛠️ Technical Toolkit</h2>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Verilog%20HDL-red?style=for-the-badge&logo=appveyor&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-    <img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cadence%20Virtuoso-000000?style=for-the-badge&logo=cadence&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Xilinx%20Vivado-FF6600?style=for-the-badge&logo=xilinx&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/MATLAB-0076a8?style=for-the-badge&logo=matlab&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Deep%20Learning-FF2D20?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-<h2 align="center">💡 Key Personal Projects</h2>
+<h2 align="center">🚀 Key Projects</h2>
 
-<details>
-<summary><b>1. Semantic Segmentation in Heterogeneous Federated Learning (M.Tech Thesis)</b></summary>
+### 🏗️ 01. Digital Logic & VLSI Design
+<details open>
+<summary><b>Click to expand Hardware Projects</b></summary>
 <br>
 
-* **Description:** Researching decentralized image segmentation to overcome domain shifts in heterogeneous commercial datasets.
-* **Implementation:** Developing simulation models using **Python** and **PyTorch**, adapting Fed-Star and Fed-Cyclic algorithms for pixel-level tasks.
-* **Impact:** Focuses on maintaining high-fidelity **binary masks** while training across non-IID data sources.
-* **Tags:** `#FederatedLearning` `#SemanticSegmentation` `#PyTorch` `#ComputerVision`
+* **Synchronous 3-bit Up-Down Counter:** Designed using JK Flip-Flops; verified excitation logic and circuit timing using Verilog testbenches.
+* **Hierarchical 16:1 Multiplexer:** Implemented via structural modeling by instantiating 2:1 MUX modules into 4:1 stages.
+* **CMOS Inverter Design (180nm):** Performed DC/AC analysis using **Cadence Virtuoso** to optimize switching characteristics and minimize rise/fall times.
+* **Digital Logic Gate Simulator:** Developed a C-based simulator for fundamental gates (AND, OR, XOR) to verify Boolean truth tables.
 
 </details>
 
+### 🤖 02. AI, Machine Learning & Data Science
 <details>
-<summary><b>2. ISTVT: Interpretable Spatial-Temporal Video Transformer for Deepfake Detection</b></summary>
+<summary><b>Click to expand AI/ML Projects</b></summary>
 <br>
 
-* **Description:** A Deep Learning project aimed at identifying manipulated media content through advanced transformer architectures.
-* **Implementation:** Developed an **ISTVT** model that analyzes spatial-temporal artifacts in video sequences to detect synthetic frames.
-* **Focus:** Emphasized model **interpretability** to visualize specific features utilized during the deepfake detection process.
-* **Tags:** `#DeepLearning` `#Transformers` `#DeepfakeDetection` `#ArtificialIntelligence`
+* **Heterogeneous Federated Learning (Thesis):** Developing communication-efficient **Fed-Cyclic/Star** algorithms to reduce power-intensive central server reliance across 8 image domains.
+* **Deepfake Detection (ISTVT):** Developed an attention-based detector achieving **90% accuracy** and **0.97 AUC** on the FaceForensics++ dataset.
+* **Twitter Sentiment Analysis (Russia-Ukraine):** Analyzed **0.7M tweets** using RoBERTa and SVC, achieving **86.7% accuracy** in detecting public sentiment.
 
 </details>
 
+### ⚡ 03. Power Systems & Energy
 <details>
-<summary><b>3. Twitter-Based Sentiment Analysis of the Russia-Ukraine Conflict</b></summary>
+<summary><b>Click to expand Power Projects</b></summary>
 <br>
 
-* **Description:** An NLP and Data Mining project analyzing geopolitical sentiment trends from real-time social media data.
-* **Implementation:** Built a complete **NLP pipeline** in Python to scrape, clean, and process Twitter datasets.
-* **Analysis:** Applied sentiment extraction and categorization techniques to visualize public opinion shifts during the conflict.
-* **Tags:** `#NaturalLanguageProcessing` `#Python` `#DataMining` `#SentimentAnalysis`
-
-</details>
-
-<details>
-<summary><b>4. Power Generation from Thermoelectric Generator (TEG) - B.E. Project</b></summary>
-<br>
-
-* **Description:** A hardware energy harvesting project converting waste heat into usable electrical energy.
-* **Implementation:** Developed a system using the **Seebeck Effect** integrated with a DC-DC step-up chopper and a voltage regulator.
-* **Output:** Successfully stabilized power output to drive **mW electronic devices** and a 5W LED load via battery storage.
-* **Tags:** `#EnergyHarvesting` `#ElectricalEngineering` `#HardwareDesign` `#RenewableEnergy`
+* **IEEE 9-Bus System Analysis:** Optimization framework using **MATPOWER** and Simulink to maximize PV penetration and minimize grid losses.
+* **Thermoelectric Generator (TEG) Hardware:** Built a hardware prototype with a Boost Converter to harvest waste heat for **5W LED** generation.
 
 </details>
 
 ---
 
-<h2 align="center">🔗 Connect with Me</h2>
+<h2 align="center">📊 Stats & Connect</h2>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=durgesh1029&show_icons=true&theme=vue&hide_border=true&count_private=true" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgesh1029&theme=vue&hide_border=true" width="48%"/>
+</p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/durgesh-dongre" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:durgeshdon121@gmail.com">
+    <a href="mailto:durgesh24@iitk.ac.in">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </p>

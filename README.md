@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Durgesh%20B.%20Dongre&fontSize=70&animation=fadeIn&fontAlignY=38&desc=M.Tech%20Electrical%20Engineering%20|%20IIT%20Kanpur&descAlignY=58&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Durgesh%20%20Dongre&fontSize=70&animation=fadeIn&fontAlignY=38&desc=M.Tech%20Electrical%20Engineering%20|%20IIT%20Kanpur&descAlignY=58&descSize=25" width="100%"/>
 </p>
 
 <p align="center">
